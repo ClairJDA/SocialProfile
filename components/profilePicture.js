@@ -13,7 +13,7 @@ function ProfilePicture() {
       </div>
       <p className="text-xl">Jessica Randall</p>
       <p className="text-green">London, United Kingdom</p>
-      <p className="mt-5 mb-3">"Front-end developer and avid reader."</p>
+      <p className="mt-5 mb-3">&ldquo; Front-end developer and avid reader. &rdquo;</p>
     </div>
   );
 }
